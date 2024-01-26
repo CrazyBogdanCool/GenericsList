@@ -2,3 +2,7 @@
 GenericsList/bin/
 GenericsList/obj/
 GenericsList/Properties/
+packages/
+GenericsListTests/bin/
+GenericsListTests/obj/
+GenericsListTests/Properties/

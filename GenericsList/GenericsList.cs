@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace GenericsList
+namespace GenericsListTests
 {
-    internal class GenericsList<T>
+    public class GenericsList<T>
     {
         private T[] _list = Array.Empty<T>();
 
