@@ -63,7 +63,7 @@ namespace GenericsListTests
         public void IndexSet_ShouldSetValue()
         {
             GenericsList<double> list = new GenericsList<double>();
-            double elementToSet = 3.14;
+            double elementToSet = 1.7;
             double elementToAdd = 3.14;
 
             list.Add(elementToAdd);
